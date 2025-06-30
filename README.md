@@ -41,7 +41,7 @@ L’objectif principal est d’identifier et de comparer les variations génomiq
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone https://github.com/[utilisateur]/snp-genome-comparison-r.git
+   git clone https://github.com/stanlasso/snp-genome-comparison-r.git
    ```
 
 2. **Installer les dépendances R :**
